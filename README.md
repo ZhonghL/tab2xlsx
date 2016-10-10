@@ -1,2 +1,2 @@
 # tab2xlsx
-text file format converts to xls or xlsx
+text file splitted with TAB converts to xls or xlsx
